@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsubmodule_library.a CMakeFiles/submodule_library.dir/src/math_operations.cpp.o
+/usr/bin/ranlib libsubmodule_library.a

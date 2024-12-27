@@ -1,0 +1,6 @@
+/home/alex/Projects/MainProject/build/CMakeFiles/MainProject.dir
+/home/alex/Projects/MainProject/build/CMakeFiles/edit_cache.dir
+/home/alex/Projects/MainProject/build/CMakeFiles/rebuild_cache.dir
+/home/alex/Projects/MainProject/build/submodule_library/CMakeFiles/submodule_library.dir
+/home/alex/Projects/MainProject/build/submodule_library/CMakeFiles/edit_cache.dir
+/home/alex/Projects/MainProject/build/submodule_library/CMakeFiles/rebuild_cache.dir

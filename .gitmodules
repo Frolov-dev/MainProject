@@ -1,0 +1,3 @@
+[submodule "submodule_library"]
+	path = submodule_library
+	url = git@github.com:Frolov-dev/submodule_library.git

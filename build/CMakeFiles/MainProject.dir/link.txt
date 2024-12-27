@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MainProject.dir/main.cpp.o -o MainProject  submodule_library/libsubmodule_library.a 
